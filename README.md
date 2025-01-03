@@ -22,3 +22,6 @@ the features the we need to implement before our first official release of the a
 - we also have to work on ios and android releases in future
 [9:21 PM]
 - I can work on android but not on ios cause that needs a mac
+
+- ctrl + t
+- ctrl + p
